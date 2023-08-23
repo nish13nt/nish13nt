@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Survase</h1>
-<h3 align="center">A passionate half computer engineer from Pune,India.</h3>
+<h3 align="center">A Passionate Computer Engineer from Pune,India.</h3>
 
 - 🔭 I’m currently studying on **JSPM's RSCOE , PUNE**
 
