@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Survase</h1>
 <h3 align="center">A Passionate Computer Engineer from Pune,India.</h3>
 
-- 🔭 I’m currently studying on **JSPM's RSCOE , PUNE**
+- 🔭 I’m currently studying in **JSPM's RSCOE , PUNE**
 
 - 🌱 I’m currently learning **Python, C , C++, DBMS**
 
